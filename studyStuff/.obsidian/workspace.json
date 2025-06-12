@@ -13,43 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem5/notes.md",
+                "file": "sem5/sem5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
-            }
-          },
-          {
-            "id": "71123bb23030793c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem5/tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tasks"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6c8d12b897a9643b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8dd7c009c0a6127a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "sem5"
             }
           }
         ]
@@ -125,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem5/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for notes"
             }
           },
           {
@@ -143,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem5/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from notes"
             }
           },
           {
@@ -171,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "sem5/notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of notes"
             }
           }
         ]
@@ -196,14 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dd7c009c0a6127a",
+  "active": "4a225ab9a542f26a",
   "lastOpenFiles": [
+    "sem5/sem5.md~",
     "sem5/tasks.md",
     "sem5/sem5.md",
-    "Untitled.md",
     "sem5/notes.md",
-    "tasks.md",
     "Start.md",
+    "tasks.md",
+    "Untitled.md",
     "notes.md",
     "sem5",
     "sem4.md",

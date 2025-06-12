@@ -1,4 +1,7 @@
 ---
-tags:
-  - sem5
+id: notes
+aliases:
+  - Notes
+tags: []
 ---
+
