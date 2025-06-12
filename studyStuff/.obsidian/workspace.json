@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "sem5/notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "notes"
+            }
+          },
+          {
+            "id": "71123bb23030793c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem5/tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c8d12b897a9643b",
@@ -110,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Start"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Start"
+              "title": "Outgoing links"
             }
           },
           {
@@ -158,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start"
+              "title": "Outline"
             }
           }
         ]
@@ -184,8 +196,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a225ab9a542f26a",
+  "active": "8dd7c009c0a6127a",
   "lastOpenFiles": [
-    "Start.md"
+    "sem5/tasks.md",
+    "sem5/sem5.md",
+    "Untitled.md",
+    "sem5/notes.md",
+    "tasks.md",
+    "Start.md",
+    "notes.md",
+    "sem5",
+    "sem4.md",
+    "sem4/notes.md",
+    "sem4"
   ]
 }
