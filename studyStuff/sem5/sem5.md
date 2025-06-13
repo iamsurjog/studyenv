@@ -8,5 +8,5 @@ tags: []
 
 
 
-[[/sem5/notes |Notes]]
-[[/sem5/tasks |Tasks]]
+[[./notes |Notes]]
+[[./tasks |Tasks]]

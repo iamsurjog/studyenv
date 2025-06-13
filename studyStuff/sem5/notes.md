@@ -5,3 +5,4 @@ aliases:
 tags: []
 ---
 
+[[main|Neso Notes]]

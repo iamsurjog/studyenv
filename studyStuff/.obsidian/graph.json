@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#General  ",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:sem5  ",
+      "query": "path:sem5/CD/neso_notes  ",
       "color": {
         "a": 1,
         "rgb": 11657298
