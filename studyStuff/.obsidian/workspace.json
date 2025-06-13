@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "2_Lexical_Analysis"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start.md",
+                "file": "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Start"
+              "title": "Backlinks for 2_Lexical_Analysis"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem5/notes.md",
+                "file": "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from notes"
+              "title": "Outgoing links from 2_Lexical_Analysis"
             }
           },
           {
@@ -142,20 +142,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem5/notes.md",
+                "file": "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of notes"
+              "title": "Outline of 2_Lexical_Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,28 +171,41 @@
   },
   "active": "4a225ab9a542f26a",
   "lastOpenFiles": [
-    "tasks.md",
+    "sem5/CD/CD.md~",
+    "sem5/notes.md~",
+    "sem5/sem5.md~",
+    "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
+    "sem5/CD/gpt_notes/index.md",
+    "sem5/CD/gpt_notes/9_Symbol_Tables.md~",
+    "sem5/CD/gpt_notes/10_Runtime_Environments.md~",
+    "sem5/CD/gpt_notes/8_Error_Handling.md~",
+    "sem5/CD/gpt_notes/7_Code_Generation.md~",
+    "sem5/CD/gpt_notes/6_Code_Optimization.md~",
+    "sem5/CD/gpt_notes/5_Intermediate_Code_Generation.md~",
+    "sem5/CD/gpt_notes/index.md~",
+    "sem5/CD/gpt_notes/4_Syntax_Directed_Translation.md~",
+    "sem5/CD/gpt_notes/9_Symbol_Tables.md",
+    "sem5/CD/gpt_notes/8_Error_Handling.md",
+    "sem5/CD/gpt_notes/7_Code_Generation.md",
+    "sem5/CD/gpt_notes/6_Code_Optimization.md",
+    "sem5/CD/gpt_notes/5_Intermediate_Code_Generation.md",
+    "sem5/CD/gpt_notes/4_Syntax_Directed_Translation.md",
+    "sem5/CD/gpt_notes/3_Syntax_Analysis.md",
+    "sem5/CD/gpt_notes/10_Runtime_Environments.md",
+    "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
+    "sem5/CD/gpt_notes/1749832141-WXUT.md",
+    "sem5/CD/neso_notes/Compiler.md",
+    "sem5/CD/neso_notes/Language_translator.md",
     "sem5/CD/neso_notes/main.md",
+    "sem5/CD/CD.md",
+    "sem5/CD/neso_notes/types_of_machine_code.md",
     "sem5/notes.md",
     "sem5/sem5.md",
     "Start.md",
-    "sem5/CD/neso_notes/Compiler.md",
+    "tasks.md",
     "2025-06-13.md",
-    "sem5/CD/neso_notes/Language_translator.md",
-    "sem5/CD/neso_notes/types_of_machine_code.md",
     "sem5/CD/neso_notes/relocatable machine.md",
-    "sem5/CD/neso_notes",
-    "sem5/CD",
     "CD/neso_notes/first.md",
-    "CD/neso_notes",
-    "CD",
-    "sem5/tasks.md",
-    "sem5/sem5.md~",
-    "Untitled.md",
-    "notes.md",
-    "sem5",
-    "sem4.md",
-    "sem4/notes.md",
-    "sem4"
+    "sem5/tasks.md"
   ]
 }
