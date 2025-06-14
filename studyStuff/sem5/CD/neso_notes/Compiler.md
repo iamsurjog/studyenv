@@ -10,7 +10,7 @@ tags: []
 Same everywhere
 
 we can use LANCE for the whole thing
-### Lexical Analysis
+### [[/sem5/CD/neso_notes/Lexical Analysis|Lexical Analysis]]
 It takes Lexemes as inputs and generates tokens
 
 let us take the exp:
