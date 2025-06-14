@@ -87,7 +87,7 @@ mov DWORD PTR [rbp-16], eax
 
 # Additional parts
 
-## Symbol Table
+## [[/sem5/CD/neso_notes/Symbol_Table|Symbol Table]]
 
 
 ## Error Handler
