@@ -32,7 +32,7 @@ d -> digits
 
 we can use LEX
 
-### Syntax Analysis
+###  [[/sem5/CD/neso_notes/Syntax Analysis|Syntax Analysis]]
 Also known as parser
 
 uses context free grammer
@@ -49,14 +49,16 @@ Produces a parse tree
 
 we can use YACC
 
-### Semantic Analysis
+###  [[/sem5/CD/neso_notes/Semantic Analysis|Semantic Analysis]]
+
 Produces semantically verfied parse tree
 
 it checks type checking, array bound checking and correctness of scope resolution
 
 type mismatch, undeclared vars, misuse of reserved words, multiple declaration of var in single scope, accessing out of scope var, mismatch between formal and actual params, etc
 
-### Intermediate Code generation
+### [[/sem5/CD/neso_notes/Intermediate Code generation|Intermediate Code generation]]
+
 Produces intermediate code
 
 t<sub>0</sub> = b * c
@@ -66,13 +68,15 @@ x = t<sub>1</sub>
 
 ## Back end
 Changes for different OS
-### Code Optimization
+### [[/sem5/CD/neso_notes/Code Optimization|Code Optimization]]
+
 converts the above code to 
 
 t<sub>0</sub> = b * c
 t<sub>1</sub> = a + x
 
-### Target Code Generation
+### [[/sem5/CD/neso_notes/Target Code Generation|Target Code Generation]]
+
 produces assembly code
 
 ```
@@ -90,4 +94,4 @@ mov DWORD PTR [rbp-16], eax
 ## [[/sem5/CD/neso_notes/Symbol_Table|Symbol Table]]
 
 
-## Error Handler
+## [[/sem5/CD/neso_notes/Symbol_Table|Error Handler|Error Handler]]
