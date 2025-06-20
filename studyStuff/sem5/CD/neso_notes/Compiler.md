@@ -93,5 +93,6 @@ mov DWORD PTR [rbp-16], eax
 
 ## [[/sem5/CD/neso_notes/Symbol_Table|Symbol Table]]
 
+Stores info abt various entities like vars and func names, objs, classes, entities etc.
 
-## [[/sem5/CD/neso_notes/Symbol_Table|Error Handler|Error Handler]]
+## [[/sem5/CD/neso_notes/Error_Handler|Error Handler]]
