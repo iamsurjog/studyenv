@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem5/CD/neso_notes/Compiler.md",
+                "file": "sem5/CD/neso_notes/Lexical Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compiler"
+              "title": "Lexical Analysis"
             }
           }
         ]
@@ -155,8 +155,8 @@
   },
   "active": "c6b8b62351f250b8",
   "lastOpenFiles": [
-    "sem5/CD/neso_notes/Language_translator.md",
     "sem5/CD/neso_notes/Compiler.md",
+    "sem5/CD/neso_notes/Language_translator.md",
     "sem5/CD/neso_notes/main.md",
     "sem5/notes.md",
     "sem5/sem5.md",

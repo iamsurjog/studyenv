@@ -15,3 +15,6 @@
 ![[Lex_analyser.png]]
 ## Scanning
 ## Analysing
+
+~~:.|:;~~
+
