@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
+                "file": "sem5/CD/neso_notes/Lexical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2_Lexical_Analysis"
+              "title": "Backlinks for Lexical Analysis"
             }
           },
           {
@@ -151,13 +151,11 @@
               "title": "Outline of 2_Lexical_Analysis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be1a7f1a2e1b56b2",
+  "active": "4a225ab9a542f26a",
   "lastOpenFiles": [
-    "sem5/CD/neso_notes/Lex_analyser.png",
-    "sem5/CD/neso_notes/Lexical Analysis.md",
     "sem5/CD/neso_notes/Compiler.md",
+    "sem5/CD/neso_notes/Lexical Analysis.md",
+    "sem5/CD/neso_notes/cdfa.png",
+    "sem5/CD/neso_notes/cnfa.png",
+    "sem5/CD/neso_notes/nums.png",
+    "sem5/CD/neso_notes/vars.png",
+    "sem5/CD/neso_notes/if.png",
+    "sem5/CD/neso_notes/Lex_analyser.png",
     "sem5/CD/neso_notes/Language_translator.md",
     "sem5/CD/neso_notes/Symbol_Table.md",
     "sem5/CD/neso_notes/Error_Handler.md",

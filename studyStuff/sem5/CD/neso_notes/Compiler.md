@@ -13,18 +13,20 @@ we can use LANCE for the whole thing
 ### [[/sem5/CD/neso_notes/Lexical Analysis|Lexical Analysis]]
 It takes Lexemes as inputs and generates tokens
 
+Also removes comments and whitespaces
+
 let us take the exp:
 $x=a+b*c$
 
-| Lexemes |  Tokens  |
-| ------- | -------- |
-|    x    |identifier|
-|    =    |operator  |
-|    a    |identifier|
-|    +    |operator  |
-|    b    |identifier|
-|    *    |operator  |
-|    c    |identifier|
+| Lexemes | Tokens     |
+| ------- | ---------- |
+| x       | identifier |
+| =       | operator   |
+| a       | identifier |
+| +       | operator   |
+| b       | identifier |
+| *       | operator   |
+| c       | identifier |
 
 Regex for identifiers: l(l+d)^* \| _(l+d)^*
 l -> letters
