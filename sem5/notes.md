@@ -8,3 +8,6 @@ tags: []
 
 
 [[CD|Compiler Design]]
+
+[[CAD|Cloud Architecture Design]]
+
