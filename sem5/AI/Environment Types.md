@@ -63,3 +63,11 @@ previous action has no effect on current or future actions vs it does
 ## Known vs Unknown
 
 consequence of action is known/unknown
+
+
+|      agent       | observable | deterministic | competition | single | static | discrete | episodic | known |
+| :--------------: | :--------: | :-----------: | :---------: | :----: | :----: | :------: | :------: | :---: |
+|    crossword     |   fully    |      yes      |    nope     |  yes   |   no   |   yes    |    no    |  yes  |
+| chess with clock |   fully    |      yes      |     yes     |   no   |   no   |   yes    |    no    |  yes  |
+|      poker       | partially  |      no       |     yes     |   no   |   no   | discrete |    no    |  no   |
+|                  |            |               |             |        |        |          |          |       |
