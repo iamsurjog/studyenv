@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem5/AI/Environment Types.md",
+                "file": "sem5/AI/search algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environment Types"
+              "title": "search algorithms"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem5/AI/Environment Types.md",
+                "file": "sem5/AI/search algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Environment Types"
+              "title": "Backlinks for search algorithms"
             }
           },
           {
@@ -166,35 +166,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
   "active": "54964b11b9ff2a74",
   "lastOpenFiles": [
+    "sem5/AI/Types of AI.md",
+    "Ink/Drawing/2025.8.11 - 0.55am.drawing",
+    "sem5/AI/search algorithms.md",
     "sem5/AI/Environment Types.md",
     "sem5/AI/HIstory of AI.md",
+    "Ink/Drawing/2025.8.10 - 23.35pm.drawing",
+    "Ink/Drawing/2025.8.10 - 23.32pm.drawing",
+    "Ink/Drawing/2025.8.10 - 23.26pm.drawing",
+    "Ink/Drawing/2025.8.10 - 23.20pm.drawing",
     "sem5/AI/15281_Fa19_Lecture_6_Local_Search_inked.pdf",
+    "Ink/Drawing/2025.8.10 - 22.36pm.drawing",
+    "sem5/AI/lec_003_Structure_of_the_Agent_v2.pdf",
+    "sem5/AI/Lecture_007_Module_02_Un_informed_Search_BFS_DFS_DLS_IDS_UCS.pdf",
+    "Ink/Drawing",
+    "Untitled.md",
     "sem5/CAD/CAD.md",
     "sem5/CD/neso_notes/cnfa.png",
     "sem5/CD/neso_notes/Compiler.md",
     "sem5/CD/neso_notes/Error_Handler.md",
-    "sem5/AI/lec_002_PEAS.pdf",
-    "sem5/AI/lec_001_Intro2AI.pdf",
-    "sem5/AI/Environment Types.md~",
-    "sem5/AI/lec_003_Structure_of_the_Agent_v2.pdf",
     "README.md",
     "Start.md",
     "tasks.md",
-    "code.l",
     "sem5/CD/CD.md",
-    "sem5/AI/Lecture_007_Module_02_Un_informed_Search_BFS_DFS_DLS_IDS_UCS.pdf",
-    "sem5/AI/4913",
     "sem5/CD/neso_notes/Lexical Analysis.md",
-    "sem5/AI",
     "sem5/CD/neso_notes/Language_translator.md",
-    "sem5/CAD/CAD.md~",
     "sem5/notes.md",
     "sem5/CD/CAD.md",
     "sem5/sem5.md",
@@ -210,9 +213,6 @@
     "sem5/CD/neso_notes/Symbol_Table.md",
     "sem5/CD/neso_notes/main.md",
     "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
-    "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
-    "sem5/CD/gpt_notes/index.md",
-    "sem5/CD/gpt_notes/9_Symbol_Tables.md",
-    "sem5/CD/gpt_notes/8_Error_Handling.md"
+    "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md"
   ]
 }

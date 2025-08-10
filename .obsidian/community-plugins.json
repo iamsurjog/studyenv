@@ -3,5 +3,8 @@
   "text-extractor",
   "ai-image-analyzer",
   "pdf-plus",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-file-color",
+  "obsidian-advanced-new-file",
+  "ink"
 ]
