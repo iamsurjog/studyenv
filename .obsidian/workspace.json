@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a225ab9a542f26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem5/CD/CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CD"
-            }
-          },
-          {
             "id": "54964b11b9ff2a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem5/CAD/CAD.md",
+                "file": "sem5/AI/Environment Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAD"
+              "title": "Environment Types"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem5/CAD/CAD.md",
+                "file": "sem5/AI/Environment Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CAD"
+              "title": "Backlinks for Environment Types"
             }
           },
           {
@@ -179,52 +164,55 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "54964b11b9ff2a74",
   "lastOpenFiles": [
+    "sem5/AI/HIstory of AI.md",
+    "sem5/AI/15281_Fa19_Lecture_6_Local_Search_inked.pdf",
+    "sem5/CAD/CAD.md",
+    "sem5/CD/neso_notes/cnfa.png",
+    "sem5/CD/neso_notes/Compiler.md",
+    "sem5/CD/neso_notes/Error_Handler.md",
+    "sem5/AI/Environment Types.md",
+    "sem5/AI/lec_002_PEAS.pdf",
+    "sem5/AI/lec_001_Intro2AI.pdf",
+    "sem5/AI/Environment Types.md~",
+    "sem5/AI/lec_003_Structure_of_the_Agent_v2.pdf",
+    "README.md",
+    "Start.md",
+    "tasks.md",
+    "code.l",
+    "sem5/CD/CD.md",
+    "sem5/AI/Lecture_007_Module_02_Un_informed_Search_BFS_DFS_DLS_IDS_UCS.pdf",
+    "sem5/AI/4913",
+    "sem5/CD/neso_notes/Lexical Analysis.md",
+    "sem5/AI",
+    "sem5/CD/neso_notes/Language_translator.md",
     "sem5/CAD/CAD.md~",
     "sem5/notes.md",
-    "sem5/CAD/CAD.md",
     "sem5/CD/CAD.md",
-    "sem5/CAD",
-    "sem5/CD/CD.md",
     "sem5/sem5.md",
     "sem5/tasks.md",
     "notes.md",
-    "sem5/CD/neso_notes/Error_Handler.md",
     "sem5/CD/neso_notes/Lexical_Errors.md",
-    "sem5/CD/neso_notes/Compiler.md",
-    "sem5/CD/neso_notes/Lexical Analysis.md",
     "2025-06-22.md",
     "sem5/CD/neso_notes/cdfa.png",
-    "sem5/CD/neso_notes/cnfa.png",
     "sem5/CD/neso_notes/nums.png",
     "sem5/CD/neso_notes/vars.png",
     "sem5/CD/neso_notes/if.png",
     "sem5/CD/neso_notes/Lex_analyser.png",
-    "sem5/CD/neso_notes/Language_translator.md",
     "sem5/CD/neso_notes/Symbol_Table.md",
     "sem5/CD/neso_notes/main.md",
     "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
-    "sem5/CD/CD.md~",
-    "sem5/notes.md~",
-    "sem5/sem5.md~",
     "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
     "sem5/CD/gpt_notes/index.md",
-    "sem5/CD/gpt_notes/9_Symbol_Tables.md~",
-    "sem5/CD/gpt_notes/10_Runtime_Environments.md~",
-    "sem5/CD/gpt_notes/8_Error_Handling.md~",
-    "sem5/CD/gpt_notes/7_Code_Generation.md~",
-    "sem5/CD/gpt_notes/6_Code_Optimization.md~",
-    "sem5/CD/gpt_notes/5_Intermediate_Code_Generation.md~",
     "sem5/CD/gpt_notes/9_Symbol_Tables.md",
-    "sem5/CD/gpt_notes/8_Error_Handling.md",
-    "sem5/CD/gpt_notes/7_Code_Generation.md",
-    "sem5/CD/gpt_notes/6_Code_Optimization.md",
-    "sem5/CD/gpt_notes/5_Intermediate_Code_Generation.md",
-    "sem5/CD/gpt_notes/4_Syntax_Directed_Translation.md",
-    "sem5/CD/gpt_notes/3_Syntax_Analysis.md"
+    "sem5/CD/gpt_notes/8_Error_Handling.md"
   ]
 }
