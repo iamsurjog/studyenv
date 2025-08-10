@@ -2,5 +2,8 @@
   "omnisearch",
   "text-extractor",
   "pdf-plus",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-file-color",
+  "obsidian-advanced-new-file",
+  "ink"
 ]
