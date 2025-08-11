@@ -1,5 +1,5 @@
 {
-  "aiModel": "deepseek-r1:1.5b",
+  "aiModel": "llama3.1:8b",
   "ollamaURL": "http://localhost:11434",
   "temperature": 0.1,
   "isContextFreeChatsEnabled": false

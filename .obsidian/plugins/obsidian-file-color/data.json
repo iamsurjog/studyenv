@@ -1,17 +1,71 @@
 {
-  "cascadeColors": false,
+  "cascadeColors": true,
   "colorBackground": false,
   "palette": [
     {
       "id": "udA2-CvmLXgkNEtDnwpTz",
       "name": "current-sem",
-      "value": "#65ae6a"
+      "value": "#fb00ff"
+    },
+    {
+      "id": "Q8dMK-WVjQrkD2xCXE4qp",
+      "name": "AI",
+      "value": "#ff0000"
+    },
+    {
+      "id": "0RSJxgzXb5QYTG20lNPT-",
+      "name": "CD",
+      "value": "#0400ff"
+    },
+    {
+      "id": "H61aEkfg8vU_pmB_k_PIp",
+      "name": "CN",
+      "value": "#d4ff00"
+    },
+    {
+      "id": "jXviHe-0m9jtANiyy2Mg9",
+      "name": "OS",
+      "value": "#00ff1e"
+    },
+    {
+      "id": "7_QQg_DkcDeb3U0OKNe_z",
+      "name": "AWS",
+      "value": "#ff8800"
+    },
+    {
+      "id": "jKGdHvlV1BzTGJt-RbMzo",
+      "name": "DBMS",
+      "value": "#00eeff"
     }
   ],
   "fileColors": [
     {
       "path": "sem5",
       "color": "udA2-CvmLXgkNEtDnwpTz"
+    },
+    {
+      "path": "sem5/AI",
+      "color": "Q8dMK-WVjQrkD2xCXE4qp"
+    },
+    {
+      "path": "sem5/CAD",
+      "color": "7_QQg_DkcDeb3U0OKNe_z"
+    },
+    {
+      "path": "sem5/CD",
+      "color": "0RSJxgzXb5QYTG20lNPT-"
+    },
+    {
+      "path": "sem5/CN",
+      "color": "H61aEkfg8vU_pmB_k_PIp"
+    },
+    {
+      "path": "sem5/DBMS",
+      "color": "jKGdHvlV1BzTGJt-RbMzo"
+    },
+    {
+      "path": "sem5/OS",
+      "color": "jXviHe-0m9jtANiyy2Mg9"
     }
   ]
 }
