@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
+                "file": "sem5/CD/gpt_notes/2_Lexical_Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Introduction_to_Compilers"
+              "title": "2_Lexical_Analysis"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +185,7 @@
   },
   "active": "54964b11b9ff2a74",
   "lastOpenFiles": [
+    "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
     "sem5/CD/gpt_notes/5_Intermediate_Code_Generation.md",
     "sem5/CD/gpt_notes/8_Error_Handling.md",
     "sem5/CD/gpt_notes/10_Runtime_Environments.md",
@@ -204,7 +206,6 @@
     "sem5/CD/neso_notes/Lex_analyser.png",
     "sem5/CD/gpt_notes/4_Syntax_Directed_Translation.md",
     "sem5/CD/gpt_notes/3_Syntax_Analysis.md",
-    "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
     "sem5/CD/gpt_notes/6_Code_Optimization.md",
     "sem5/CD/gpt_notes/index.md",
     "sem5/AI/search algorithms.md",
