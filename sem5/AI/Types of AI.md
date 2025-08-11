@@ -78,7 +78,7 @@ return action
 {
 	"versionAtEmbed": "0.3.4",
 	"filepath": "Ink/Drawing/2025.8.11 - 0.55am.drawing",
-	"width": 1172,
-	"aspectRatio": 1.4415744157441575
+	"width": 952,
+	"aspectRatio": 1.2493438320209973
 }
 ```

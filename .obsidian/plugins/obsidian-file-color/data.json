@@ -1,6 +1,17 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "udA2-CvmLXgkNEtDnwpTz",
+      "name": "current-sem",
+      "value": "#65ae6a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "sem5",
+      "color": "udA2-CvmLXgkNEtDnwpTz"
+    }
+  ]
 }
