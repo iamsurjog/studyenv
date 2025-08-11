@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-08-11.md",
+                "file": "sem5/CD/SLR Parser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-11"
+              "title": "SLR Parser"
             }
           }
         ]
@@ -185,18 +185,29 @@
   },
   "active": "54964b11b9ff2a74",
   "lastOpenFiles": [
-    "Start.md",
+    "sem5/CD/CD.md",
+    "sem5/CD/SLR Parser.md",
+    "sem5/CD/neso_notes/Lexical Analysis.md",
+    "sem5/AI/lec_003_Structure_of_the_Agent_v2.pdf",
+    "sem5/CD/neso_notes/Language_translator.md",
+    "sem5/CD/neso_notes/Error_Handler.md",
+    "sem5/CD/neso_notes/Compiler.md",
+    "sem5/CD/neso_notes/Lex_analyser.png",
+    "sem5/CD/gpt_notes/4_Syntax_Directed_Translation.md",
+    "sem5/CD/gpt_notes/3_Syntax_Analysis.md",
+    "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
+    "sem5/CD/gpt_notes/6_Code_Optimization.md",
+    "sem5/CD/gpt_notes/index.md",
     "sem5/AI/search algorithms.md",
+    "sem5/AI/Types of AI.md",
     "2025-08-11.md",
+    "Start.md",
     "Ink/Drawing/2025.8.11 - 11.23am.drawing",
     "Ink/Drawing/2025.8.11 - 11.22am.drawing",
     "2025-08-11.md~",
     "sem5/AI/HIstory of AI.md",
     "sem5/AI/Environment Types.md",
-    "sem5/CD/CD.md",
-    "sem5/AI/Types of AI.md",
     "sem5/AI/15281_Fa19_Lecture_6_Local_Search_inked.pdf",
-    "sem5/AI/lec_003_Structure_of_the_Agent_v2.pdf",
     "sem5/AI/Lecture_007_Module_02_Un_informed_Search_BFS_DFS_DLS_IDS_UCS.pdf",
     "Ink/Drawing/2025.8.11 - 0.55am.drawing",
     "sem5/CD/neso_notes/cnfa.png",
@@ -206,25 +217,15 @@
     "Ink/Drawing/2025.8.10 - 23.26pm.drawing",
     "Untitled.md",
     "sem5/CAD/CAD.md",
-    "sem5/CD/neso_notes/Compiler.md",
-    "sem5/CD/neso_notes/Error_Handler.md",
     "README.md",
     "tasks.md",
-    "sem5/CD/neso_notes/Lexical Analysis.md",
-    "sem5/CD/neso_notes/Language_translator.md",
     "sem5/notes.md",
     "sem5/CD/CAD.md",
     "sem5/tasks.md",
     "notes.md",
-    "sem5/CD/neso_notes/Lexical_Errors.md",
-    "2025-06-22.md",
     "sem5/CD/neso_notes/cdfa.png",
     "sem5/CD/neso_notes/nums.png",
     "sem5/CD/neso_notes/vars.png",
-    "sem5/CD/neso_notes/if.png",
-    "sem5/CD/neso_notes/Lex_analyser.png",
-    "sem5/CD/neso_notes/Symbol_Table.md",
-    "sem5/CD/neso_notes/main.md",
-    "sem5/CD/gpt_notes/2_Lexical_Analysis.md"
+    "sem5/CD/neso_notes/if.png"
   ]
 }
