@@ -11,14 +11,12 @@
             "id": "c6b8b62351f250b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "sem5/CD/neso_notes/Compiler.md",
-                "mode": "source",
-                "source": false
+                "file": "sem5/CD/neso_notes/cdfa.png"
               },
-              "icon": "lucide-file",
-              "title": "Compiler"
+              "icon": "lucide-image",
+              "title": "cdfa"
             }
           }
         ]
@@ -159,6 +157,7 @@
   },
   "active": "c6b8b62351f250b8",
   "lastOpenFiles": [
+    "sem5/CD/neso_notes/Compiler.md",
     "2025-08-13.md",
     "sem5/OS/SYL_OS_TH.pdf",
     "sem5/OS/SYL_OS_L.pdf",
@@ -176,7 +175,6 @@
     "2025-08-11.md",
     "sem5/AI/Environment Types.md",
     "sem5/CD/neso_notes/Lexical Analysis.md",
-    "sem5/CD/neso_notes/Compiler.md",
     "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
     "sem5/CD/neso_notes/Language_translator.md",
     "sem5/CD/neso_notes/main.md",
