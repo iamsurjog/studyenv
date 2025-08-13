@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem5/AI/Environment Types.md",
+                "file": "2025-08-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environment Types"
+              "title": "2025-08-13"
             }
           }
         ]
@@ -159,6 +159,10 @@
   },
   "active": "c6b8b62351f250b8",
   "lastOpenFiles": [
+    "Ink/Drawing/2025.8.13 - 8.13am.drawing",
+    "2025-08-13.md",
+    "2025-08-11.md",
+    "sem5/AI/Environment Types.md",
     "sem5/CD/neso_notes/Lexical Analysis.md",
     "sem5/CD/neso_notes/Compiler.md",
     "sem5/CD/gpt_notes/1_Introduction_to_Compilers.md",
