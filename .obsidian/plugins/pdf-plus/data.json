@@ -110,8 +110,8 @@
   "recordPDFInternalLinkHistory": true,
   "alwaysRecordHistory": true,
   "renderMarkdownInStickyNote": false,
-  "enablePDFEdit": false,
-  "author": "",
+  "enablePDFEdit": true,
+  "author": "SG",
   "writeHighlightToFileOpacity": 0.2,
   "defaultWriteFileToggle": false,
   "syncWriteFileToggle": true,
@@ -212,7 +212,7 @@
   "calloutType": "PDF",
   "calloutIcon": "highlighter",
   "highlightBacklinksInEmbed": false,
-  "highlightBacklinksInHoverPopover": false,
+  "highlightBacklinksInHoverPopover": true,
   "highlightBacklinksInCanvas": true,
   "clickPDFInternalLinkWithModifierKey": true,
   "clickOutlineItemWithModifierKey": true,
@@ -306,7 +306,7 @@
   "modifierToDropExternalPDFToCreateDummy": [
     "Shift"
   ],
-  "vim": false,
+  "vim": true,
   "vimrcPath": "",
   "vimVisualMotion": true,
   "vimScrollSize": 40,
