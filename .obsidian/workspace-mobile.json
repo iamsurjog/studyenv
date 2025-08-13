@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-08-13.md",
+                "file": "sem5/CD/neso_notes/Compiler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-13"
+              "title": "Compiler"
             }
           }
         ]
@@ -159,8 +159,20 @@
   },
   "active": "c6b8b62351f250b8",
   "lastOpenFiles": [
-    "Ink/Drawing/2025.8.13 - 8.13am.drawing",
     "2025-08-13.md",
+    "sem5/OS/SYL_OS_TH.pdf",
+    "sem5/OS/SYL_OS_L.pdf",
+    "sem5/OS",
+    "sem5/DBMS/SYL_DBMS_TH.pdf",
+    "sem5/DBMS/SYL_DBMS_L.pdf",
+    "sem5/DBMS",
+    "sem5/CN/SYL_CN_TH.pdf",
+    "sem5/CN/SYL_CN_L.pdf",
+    "sem5/CN",
+    "sem5/CD/SYL_CD_TH.pdf",
+    "sem5/CD/SLR Parser.md",
+    "sem5/CD/Left Recursion thingy.md",
+    "Untitled.md",
     "2025-08-11.md",
     "sem5/AI/Environment Types.md",
     "sem5/CD/neso_notes/Lexical Analysis.md",
