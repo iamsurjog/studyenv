@@ -1,11 +1,12 @@
 [
   "omnisearch",
   "text-extractor",
-  "pdf-plus",
   "obsidian-vimrc-support",
   "obsidian-file-color",
   "obsidian-advanced-new-file",
   "ink",
+  "mini-rag",
   "ai-image-analyzer",
-  "mini-rag"
+  "pdf-plus",
+  "obsidian-style-settings"
 ]
