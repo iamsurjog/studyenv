@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1755326923444,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1755326923444,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1755326923445,
+              "items": [],
+              "title": "CD"
+            }
+          ],
+          "title": "\\\\sem5"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
