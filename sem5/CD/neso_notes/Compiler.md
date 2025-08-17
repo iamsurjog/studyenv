@@ -28,7 +28,7 @@ $x=a+b*c$
 | *       | operator   |
 | c       | identifier |
 
-Regex for identifiers: l(l+d)^* \| _(l+d)^*
+Regex for identifiers: l(l+d)^* \| \_(l+d)^*
 l -> letters
 d -> digits
 

@@ -15,10 +15,19 @@ F -> id
 
 ### Step 2: Generate First and Follow
 
-| Non Terminal | First             | Follow    |
-| :----------: | :---------------- | :-------- |
-|      E       | (, id             | (, id     |
-|      E'      | +, $\varepsilon$  | follow(E) |
-|      T       | (, id             |           |
-|      T'      | \*, $\varepsilon$ |           |
-|      F       | (, id             |           |
+| Non Terminal | First             | Follow       |
+| :----------: | :---------------- | :----------- |
+|      E       | (, id             | ), $         |
+|      E'      | +, $\varepsilon$  | ), $         |
+|      T       | (, id             | +, ), $      |
+|      T'      | \*, $\varepsilon$ | +, ), $      |
+|      F       | (, id             | \*,  +, ), $ |
+
+### Step 3: Parsing table
+| Non Terminal |    id     |         +          |      *      |         (          |  )  |         $          |
+| :----------: | :-------: | :----------------: | :---------: | :----------------: | :-: | :----------------: |
+|      E       | E -> TE'  |                    |             |      E -> TE'      |     |                    |
+|      E'      |           |     E' -> +TE'     |             | E' ->$\varepsilon$ |     | E' ->$\varepsilon$ |
+|      T       |  T ->FT'  |                    |             |      T ->FT'       |     |                    |
+|      T'      |           | T' ->$\varepsilon$ | T' -> \*FT' | T' ->$\varepsilon$ |     | T' ->$\varepsilon$ |
+|      F       | F -> (id) |                    |             |      F -> (E)      |     |                    |
