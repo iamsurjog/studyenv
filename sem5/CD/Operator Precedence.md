@@ -14,3 +14,14 @@ F -> id
 #### Trail:
 - A -> $\alpha aB$; Trail(A) = a
 - A -> $\alpha B$; Trail(A)=Trail(B)
+
+| Non Terminal |    Lead     |    Trail    |
+| :----------: | :---------: | :---------: |
+|      E       | +,\*, (, id | +,\*, ), id |
+|      T       |  \*, (, id  |  \*, ), id  |
+|      F       |    (, id    |    ), id    |
+
+|     | id  |  *  |  (  | ) $ |
+| :-: | :-: | :-: | :-: | :-: |
+| id  |     |     |     |     |
+| **  |     |     |     |     |
