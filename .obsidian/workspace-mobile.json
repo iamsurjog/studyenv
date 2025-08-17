@@ -11,12 +11,14 @@
             "id": "c6b8b62351f250b8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "sem5/CD/neso_notes/cdfa.png"
+                "file": "sem5/CD/SLR Parser.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "cdfa"
+              "icon": "lucide-file",
+              "title": "SLR Parser"
             }
           }
         ]
@@ -143,6 +145,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,6 +160,8 @@
   },
   "active": "c6b8b62351f250b8",
   "lastOpenFiles": [
+    "sem5/CD/RE to DFA.md",
+    "sem5/CD/neso_notes/cdfa.png",
     "sem5/CD/neso_notes/Compiler.md",
     "2025-08-13.md",
     "sem5/OS/SYL_OS_TH.pdf",
