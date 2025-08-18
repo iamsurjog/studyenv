@@ -2,9 +2,10 @@
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
   "textFontFamily": "Inter",
-  "baseFontSize": 16,
+  "baseFontSize": 21,
   "enabledCssSnippets": [
     "transparent",
     "style"
-  ]
+  ],
+  "baseFontSizeAction": true
 }

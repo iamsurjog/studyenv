@@ -28,5 +28,23 @@
       ],
       "key": "N"
     }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "dashboard-navigator:dashboard": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "recent-files-obsidian:recent-files-open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
   ]
 }
