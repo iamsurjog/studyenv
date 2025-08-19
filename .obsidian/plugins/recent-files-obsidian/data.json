@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "thread",
+      "path": "sem5/OS/mod2/thread.md"
+    },
+    {
+      "basename": "Interrupt",
+      "path": "sem5/OS/mod2/Interrupt.md"
+    },
+    {
       "basename": "system calls",
       "path": "sem5/OS/mod2/system calls.md"
     },
