@@ -1,48 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Environment Types",
-      "path": "sem5/AI/Environment Types.md"
+      "basename": "SYL_CN_TH",
+      "path": "sem5/CN/SYL_CN_TH.pdf"
     },
     {
-      "basename": "HIstory of AI",
-      "path": "sem5/AI/HIstory of AI.md"
+      "basename": "Switching",
+      "path": "sem5/CN/Switching.md"
+    },
+    {
+      "basename": "Topologies",
+      "path": "sem5/CN/Topologies.md"
+    },
+    {
+      "basename": "SYL_CN_L",
+      "path": "sem5/CN/SYL_CN_L.pdf"
+    },
+    {
+      "basename": "SYL_OS_TH",
+      "path": "sem5/OS/SYL_OS_TH.pdf"
+    },
+    {
+      "basename": "Network Models",
+      "path": "sem5/CN/Network Models.md"
+    },
+    {
+      "basename": "History of Networks",
+      "path": "sem5/CN/History of Networks.md"
+    },
+    {
+      "basename": "canvas",
+      "path": "canvas.md"
+    },
+    {
+      "basename": "2025-08-11",
+      "path": "2025-08-11.md"
+    },
+    {
+      "basename": "search algorithms",
+      "path": "sem5/AI/search algorithms.md"
+    },
+    {
+      "basename": "Types of AI",
+      "path": "sem5/AI/Types of AI.md"
     },
     {
       "basename": "SYL_AI",
       "path": "sem5/AI/SYL_AI.pdf"
     },
     {
-      "basename": "thread",
-      "path": "sem5/OS/mod2/thread.md"
+      "basename": "Lecture_007_Module_02_Un_informed_Search_BFS_DFS_DLS_IDS_UCS",
+      "path": "sem5/AI/pdf/Lecture_007_Module_02_Un_informed_Search_BFS_DFS_DLS_IDS_UCS.pdf"
     },
     {
-      "basename": "Interrupt",
-      "path": "sem5/OS/mod2/Interrupt.md"
+      "basename": "lec_003_Structure_of_the_Agent_v2(1)",
+      "path": "sem5/AI/pdf/lec_003_Structure_of_the_Agent_v2(1).pdf"
     },
     {
-      "basename": "system calls",
-      "path": "sem5/OS/mod2/system calls.md"
+      "basename": "lec_003_Structure_of_the_Agent_v3",
+      "path": "sem5/AI/pdf/lec_003_Structure_of_the_Agent_v3.pdf"
     },
     {
-      "basename": "Design Issues",
-      "path": "sem5/OS/mod1/Design Issues.md"
+      "basename": "CAT_1_AI_B1_slot_QP_v_6_moderated",
+      "path": "sem5/AI/pdf/CAT_1_AI_B1_slot_QP_v_6_moderated.pdf"
+    },
+    {
+      "basename": "CAT_1_AI_B1_slot_QP_key",
+      "path": "sem5/AI/pdf/CAT_1_AI_B1_slot_QP_key.pdf"
+    },
+    {
+      "basename": "BCSE303L-CAT-1-B2-2024",
+      "path": "sem5/AI/pdf/BCSE303L-CAT-1-B2-2024.pdf"
+    },
+    {
+      "basename": "BCSE303L-CAT-1-B1-2024",
+      "path": "sem5/AI/pdf/BCSE303L-CAT-1-B1-2024.pdf"
+    },
+    {
+      "basename": "BCSE303L-CAT-1-B1-2023",
+      "path": "sem5/AI/pdf/BCSE303L-CAT-1-B1-2023.pdf"
+    },
+    {
+      "basename": "15281_Fa19_Lecture_6_Local_Search_inked",
+      "path": "sem5/AI/pdf/15281_Fa19_Lecture_6_Local_Search_inked.pdf"
+    },
+    {
+      "basename": "2025-08-13",
+      "path": "2025-08-13.md"
+    },
+    {
+      "basename": "tasks",
+      "path": "tasks.md"
+    },
+    {
+      "basename": "Start",
+      "path": "Start.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "OS Structure",
       "path": "sem5/OS/mod1/OS Structure.md"
     },
     {
-      "basename": "Intro",
-      "path": "sem5/OS/mod1/Intro.md"
+      "basename": "Environment Types",
+      "path": "sem5/AI/Environment Types.md"
     },
     {
-      "basename": "2025.8.18 - 23.00pm",
-      "path": "Ink/Drawing/2025.8.18 - 23.00pm.drawing"
-    },
-    {
-      "basename": "SYL_OS_TH",
-      "path": "sem5/OS/SYL_OS_TH.pdf"
+      "basename": "HIstory of AI",
+      "path": "sem5/AI/HIstory of AI.md"
     }
   ],
   "omittedPaths": [],
