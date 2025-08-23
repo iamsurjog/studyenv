@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem5/AI/HIstory of AI.md",
+                "file": "sem5/CN/Network Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HIstory of AI"
+              "title": "Network Models"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "033a968862af3493",
+  "active": "9f5f364bb3689323",
   "lastOpenFiles": [
+    "sem5/AI/HIstory of AI.md",
     "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-08-14_Module-2.pdf",
     "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-07-28_OSI-Model.pdf",
     "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-07-28_Module-2.pdf",
@@ -193,12 +194,10 @@
     "sem5/AI/pdf/lec_003_Structure_of_the_Agent_v2(1).pdf",
     "sem5/AI/pdf/lec_002_PEAS.pdf",
     "sem5/AI/pdf/lec_001_Intro2AI.pdf",
-    "sem5/AI/pdf/Lecture_007_Module_02_Un_informed_Search_BFS_DFS_DLS_IDS_UCS.pdf",
     "canvas.md",
     "Pasted image 20250820003904.png",
     "sem5/AI/Types of AI.md",
     "sem5/AI/Environment Types.md",
-    "sem5/AI/HIstory of AI.md",
     "2025-08-11.md",
     "sem5/OS/mod2/system calls.md",
     "sem5/OS/mod2/thread.md",
