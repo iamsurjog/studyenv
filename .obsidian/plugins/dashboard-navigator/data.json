@@ -25,6 +25,6 @@
   "hide_columns": [],
   "show_dashboard_piechart": true,
   "image_thumbnail": true,
-  "onclose_search": "structure",
+  "onclose_search": "",
   "saved_searches": []
 }
