@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "SYL_DBMS_TH",
       "path": "sem5/DBMS/SYL_DBMS_TH.pdf"
     },
@@ -43,18 +44,70 @@
     {
       "basename": "MOD 2 - EC2",
       "path": "sem5/CAD/pdfs/MOD 2 - EC2.pdf"
+=======
+      "basename": "BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L",
+      "path": "sem5/CAD/BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L.pdf"
+    },
+    {
+      "basename": "aws,iam",
+      "path": "sem5/CAD/pdfs/aws,iam.pdf"
+    },
+    {
+      "basename": "Final Question Bank",
+      "path": "sem5/CAD/pdfs/Final Question Bank.pdf"
+>>>>>>> 105afd401b41e6affd3e3d5a6349f5b9efdd8259
     },
     {
       "basename": "IAM",
       "path": "sem5/CAD/IAM.md"
     },
     {
+<<<<<<< HEAD
+=======
+      "basename": "VPC",
+      "path": "sem5/CAD/VPC.md"
+    },
+    {
+>>>>>>> 105afd401b41e6affd3e3d5a6349f5b9efdd8259
       "basename": "CAD",
       "path": "sem5/CAD/CAD.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Network Models",
       "path": "sem5/CN/Network Models.md"
+=======
+      "basename": "AWS Global Infrastructure",
+      "path": "sem5/CAD/AWS Global Infrastructure.md"
+    },
+    {
+      "basename": "OS Structure",
+      "path": "sem5/OS/mod1/OS Structure.md"
+    },
+    {
+      "basename": "Design Issues",
+      "path": "sem5/OS/mod1/Design Issues.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "sem5/OS/mod1/Intro.md"
+    },
+    {
+      "basename": "SYL_OS_TH",
+      "path": "sem5/OS/SYL_OS_TH.pdf"
+    },
+    {
+      "basename": "canvas",
+      "path": "canvas.md"
+    },
+    {
+      "basename": "2025-08-13",
+      "path": "2025-08-13.md"
+    },
+    {
+      "basename": "Pasted image 20250820003904",
+      "path": "Pasted image 20250820003904.png"
+>>>>>>> 105afd401b41e6affd3e3d5a6349f5b9efdd8259
     }
   ],
   "omittedPaths": [],
