@@ -4,41 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "910492d8e7fd5806",
+        "id": "2394cb7f71f485f1",
         "type": "tabs",
         "children": [
           {
-            "id": "9f5f364bb3689323",
+            "id": "c61908deeba41224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem5/CN/Network Models.md",
-                "mode": "source",
-                "source": false
+                "file": "sem5/DBMS/SYL_DBMS_TH.pdf",
+                "page": 1,
+                "left": 0,
+                "top": 414,
+                "zoom": 0.56
               },
-              "icon": "lucide-file",
-              "title": "Network Models"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c7ee22a10392834c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6b8b62351f250b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem5/OS/mod2/system calls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "system calls"
+              "icon": "lucide-file-text",
+              "title": "SYL_DBMS_TH"
             }
           }
         ]
@@ -165,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
@@ -179,33 +162,36 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9f5f364bb3689323",
+  "active": "c61908deeba41224",
   "lastOpenFiles": [
+    "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-07-28_Module-1.pdf",
+    "sem5/CAD/AWS Global Infrastructure.md",
+    "sem5/CAD/pdfs/Module-1_IAM AND SHARED RESPOSNSIBILITY MODEL.pdf",
+    "sem5/DBMS/pdfs/Module-1_Administrator - Classification of database management systems- Data Models - Schemas and Instances - Three-Schema Architecture - The Database System E.pdf",
+    "sem5/OS/mod2/system calls.md",
+    "sem5/OS/mod2/Interrupt.md",
+    "sem5/DBMS/mod1/Three Schema Architecture.md",
+    "sem5/DBMS/pdfs/Module-1_Introduction , Characteristics, Actors, admin.pdf",
+    "sem5/DBMS/pdfs/Modules 1 2 3 QB.pdf",
+    "sem5/CAD/pdfs/MOD 2 - EC2.pdf",
+    "sem5/CAD/IAM.md",
+    "sem5/CAD/CAD.md",
+    "sem5/CN/Network Models.md",
     "sem5/AI/HIstory of AI.md",
     "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-08-14_Module-2.pdf",
     "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-07-28_OSI-Model.pdf",
     "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-07-28_Module-2.pdf",
-    "sem5/CN/pdf/FALLSEM2025-26_VL_BCSE308L_00100_TH_2025-07-28_Module-1.pdf",
     "sem5/CN/pdf",
     "sem5/CN/Switching.md",
-    "sem5/CN/Network Models.md",
-    "sem5/AI/pdf/lec_003_Structure_of_the_Agent_v3.pdf",
-    "sem5/AI/pdf/lec_003_Structure_of_the_Agent_v2.pdf",
-    "sem5/AI/pdf/lec_003_Structure_of_the_Agent_v2(1).pdf",
-    "sem5/AI/pdf/lec_002_PEAS.pdf",
-    "sem5/AI/pdf/lec_001_Intro2AI.pdf",
     "canvas.md",
     "Pasted image 20250820003904.png",
     "sem5/AI/Types of AI.md",
     "sem5/AI/Environment Types.md",
     "2025-08-11.md",
-    "sem5/OS/mod2/system calls.md",
     "sem5/OS/mod2/thread.md",
     "sem5/OS/mod1/OS Structure.md",
     "sem5/OS/mod1/Design Issues.md",
-    "sem5/OS/mod2/Interrupt.md",
     "sem5/OS/mod1/Intro.md",
-    "sem5/DBMS/mod1/Three Schema Architecture.md",
     "sem5/rough.md",
     "sem5/DBMS/mod1/Some Definitions.md",
     "sem5/notes.md",
@@ -214,9 +200,6 @@
     "sem5/CD/SLR Parser.md",
     "sem5/CD/neso_notes/cdfa.png",
     "sem5/CD/neso_notes/Compiler.md",
-    "2025-08-13.md",
-    "sem5/CD/Left Recursion thingy.md",
-    "Untitled.md",
-    "sem5/CD/neso_notes/Lexical Analysis.md"
+    "2025-08-13.md"
   ]
 }
