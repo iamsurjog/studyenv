@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "SYL_AI",
-      "path": "sem5/AI/SYL_AI.pdf"
+      "basename": "Flow Control",
+      "path": "sem5/CN/Mod3/Flow Control.md"
+    },
+    {
+      "basename": "SYL_CN_TH",
+      "path": "sem5/CN/SYL_CN_TH.pdf"
+    },
+    {
+      "basename": "Topologies",
+      "path": "sem5/CN/Topologies.md"
+    },
+    {
+      "basename": "BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L",
+      "path": "sem5/CAD/BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L.pdf"
     },
     {
       "basename": "SYL_DBMS_TH",
       "path": "sem5/DBMS/SYL_DBMS_TH.pdf"
+    },
+    {
+      "basename": "SYL_AI",
+      "path": "sem5/AI/SYL_AI.pdf"
+    },
+    {
+      "basename": "SYL_CD_TH",
+      "path": "sem5/CD/SYL_CD_TH.pdf"
     },
     {
       "basename": "SYL_OS_TH",
@@ -15,10 +35,6 @@
     {
       "basename": "SLR Parser",
       "path": "sem5/CD/SLR Parser.md"
-    },
-    {
-      "basename": "SYL_CD_TH",
-      "path": "sem5/CD/SYL_CD_TH.pdf"
     },
     {
       "basename": "Start",
