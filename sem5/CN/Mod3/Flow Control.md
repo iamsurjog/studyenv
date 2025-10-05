@@ -8,3 +8,7 @@
 - Step-and-wait ARQ
 - Go-Back-N ARQ
 - Selective Repeat ARQ
+
+### Stop and Wait:
+- Sends data then waits for acknowledgement
+- if acknowledgement not received, resend the data packet6
