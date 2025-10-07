@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SYL_OS_TH",
+      "path": "sem5/OS/SYL_OS_TH.pdf"
+    },
+    {
       "basename": "SYL_DBMS_TH",
       "path": "sem5/DBMS/SYL_DBMS_TH.pdf"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "SYL_CD_TH",
       "path": "sem5/CD/SYL_CD_TH.pdf"
-    },
-    {
-      "basename": "SYL_OS_TH",
-      "path": "sem5/OS/SYL_OS_TH.pdf"
     },
     {
       "basename": "SLR Parser",
