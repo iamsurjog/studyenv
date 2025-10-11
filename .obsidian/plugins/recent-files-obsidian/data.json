@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L",
+      "path": "sem5/CAD/BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L.pdf"
+    },
+    {
+      "basename": "SYL_CN_TH",
+      "path": "sem5/CN/SYL_CN_TH.pdf"
+    },
+    {
+      "basename": "SYL_AI",
+      "path": "sem5/AI/SYL_AI.pdf"
+    },
+    {
       "basename": "SYL_OS_TH",
       "path": "sem5/OS/SYL_OS_TH.pdf"
     },
@@ -21,20 +33,12 @@
       "path": "sem5/CAD/pdfs/MOD 3(1).pdf"
     },
     {
-      "basename": "BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L",
-      "path": "sem5/CAD/BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L.pdf"
-    },
-    {
       "basename": "AWS Global Infrastructure",
       "path": "sem5/CAD/AWS Global Infrastructure.md"
     },
     {
       "basename": "Database",
       "path": "sem5/CAD/Database.md"
-    },
-    {
-      "basename": "SYL_CN_TH",
-      "path": "sem5/CN/SYL_CN_TH.pdf"
     },
     {
       "basename": "CAD",
@@ -51,10 +55,6 @@
     {
       "basename": "IAM",
       "path": "sem5/CAD/IAM.md"
-    },
-    {
-      "basename": "SYL_AI",
-      "path": "sem5/AI/SYL_AI.pdf"
     },
     {
       "basename": "CD",
