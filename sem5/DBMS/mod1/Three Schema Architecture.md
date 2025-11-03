@@ -45,3 +45,4 @@ Nature whereby one can change the structure of the database without having to ch
 	- Adding/ modifying/deleting a new attribute, entity or relationship
 	- merging 2 records
 	- divide a record
+

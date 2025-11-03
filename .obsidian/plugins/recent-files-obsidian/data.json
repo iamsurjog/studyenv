@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-22_Reference-Material-I",
+      "path": "sem5/AI/pdfs2/WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-22_Reference-Material-I.pdf"
+    },
+    {
+      "basename": "WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-02-03_Reference-Material-I",
+      "path": "sem5/AI/pdfs2/WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-02-03_Reference-Material-I.pdf"
+    },
+    {
+      "basename": "WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-11_Reference-Material-I",
+      "path": "sem5/AI/pdfs2/WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-11_Reference-Material-I.pdf"
+    },
+    {
+      "basename": "WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-06_Reference-Material-I",
+      "path": "sem5/AI/pdfs2/WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-06_Reference-Material-I.pdf"
+    },
+    {
+      "basename": "WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-04_Reference-Material-I",
+      "path": "sem5/AI/pdfs2/WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-04_Reference-Material-I.pdf"
+    },
+    {
+      "basename": "BCSE306L_ARTIFICIAL-INTELLIGENCE_TH_1.0_70_BCSE306L",
+      "path": "sem5/AI/pdfs2/BCSE306L_ARTIFICIAL-INTELLIGENCE_TH_1.0_70_BCSE306L.pdf"
+    },
+    {
       "basename": "BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L",
       "path": "sem5/CAD/BCSE355L_AWS-SOLUTIONS-ARCHITECT_TH_1.0_80_BCSE355L.pdf"
+    },
+    {
+      "basename": "ERD",
+      "path": "sem5/DBMS/mod2/ERD.md"
+    },
+    {
+      "basename": "Three Schema Architecture",
+      "path": "sem5/DBMS/mod1/Three Schema Architecture.md"
+    },
+    {
+      "basename": "Some Definitions",
+      "path": "sem5/DBMS/mod1/Some Definitions.md"
+    },
+    {
+      "basename": "2025-08-13",
+      "path": "2025-08-13.md"
+    },
+    {
+      "basename": "2025-08-11",
+      "path": "2025-08-11.md"
+    },
+    {
+      "basename": "SYL_OS_TH",
+      "path": "sem5/OS/SYL_OS_TH.pdf"
+    },
+    {
+      "basename": "SYL_CD_TH",
+      "path": "sem5/CD/SYL_CD_TH.pdf"
+    },
+    {
+      "basename": "SYL_DBMS_TH",
+      "path": "sem5/DBMS/SYL_DBMS_TH.pdf"
     },
     {
       "basename": "SYL_CN_TH",
@@ -11,14 +67,6 @@
     {
       "basename": "SYL_AI",
       "path": "sem5/AI/SYL_AI.pdf"
-    },
-    {
-      "basename": "SYL_OS_TH",
-      "path": "sem5/OS/SYL_OS_TH.pdf"
-    },
-    {
-      "basename": "SYL_DBMS_TH",
-      "path": "sem5/DBMS/SYL_DBMS_TH.pdf"
     },
     {
       "basename": "Flow Control",
@@ -63,10 +111,6 @@
     {
       "basename": "Topologies",
       "path": "sem5/CN/Topologies.md"
-    },
-    {
-      "basename": "SYL_CD_TH",
-      "path": "sem5/CD/SYL_CD_TH.pdf"
     },
     {
       "basename": "SLR Parser",
