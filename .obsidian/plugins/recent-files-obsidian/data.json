@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "SYL_CD_TH",
+      "path": "sem5/CD/SYL_CD_TH.pdf"
+    },
+    {
+      "basename": "SLR Parser",
+      "path": "sem5/CD/SLR Parser.md"
+    },
+    {
+      "basename": "LL(1)",
+      "path": "sem5/CD/LL(1).md"
+    },
+    {
       "basename": "WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-22_Reference-Material-I",
       "path": "sem5/AI/pdfs2/WINSEM2023-24_BCSE306L_TH_VL2023240500716_2024-01-22_Reference-Material-I.pdf"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "SYL_OS_TH",
       "path": "sem5/OS/SYL_OS_TH.pdf"
-    },
-    {
-      "basename": "SYL_CD_TH",
-      "path": "sem5/CD/SYL_CD_TH.pdf"
     },
     {
       "basename": "SYL_DBMS_TH",
@@ -111,10 +119,6 @@
     {
       "basename": "Topologies",
       "path": "sem5/CN/Topologies.md"
-    },
-    {
-      "basename": "SLR Parser",
-      "path": "sem5/CD/SLR Parser.md"
     },
     {
       "basename": "Start",
