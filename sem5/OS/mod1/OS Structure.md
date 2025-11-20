@@ -4,6 +4,7 @@ Do not have a well defined structure. They are simple, small and limited
 - The interfaces and levels of functionality are not separated
 - Application programs are able to access basic I/O routines causing system to crash if user programs crash
 
+
 ```handdrawn-ink
 {
 	"versionAtEmbed": "0.3.4",
@@ -24,7 +25,7 @@ Do not have a well defined structure. They are simple, small and limited
 	"versionAtEmbed": "0.3.4",
 	"filepath": "Ink/Drawing/2025.8.18 - 22.51pm.drawing",
 	"width": 650,
-	"aspectRatio": 1.079734219269103
+	"aspectRatio": 1
 }
 ```
 - Simplicity of construction and debugging
