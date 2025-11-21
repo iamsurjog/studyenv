@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "OS Structure",
-      "path": "sem5/OS/mod1/OS Structure.md"
+      "basename": "thread",
+      "path": "sem5/OS/mod2/thread.md"
+    },
+    {
+      "basename": "system calls",
+      "path": "sem5/OS/mod2/system calls.md"
+    },
+    {
+      "basename": "Interrupt",
+      "path": "sem5/OS/mod2/Interrupt.md"
     },
     {
       "basename": "Design Issues",
       "path": "sem5/OS/mod1/Design Issues.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "sem5/OS/mod1/Intro.md"
+    },
+    {
+      "basename": "OS Structure",
+      "path": "sem5/OS/mod1/OS Structure.md"
     },
     {
       "basename": "SYL_CD_TH",
