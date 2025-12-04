@@ -38,34 +38,5 @@
       "value": "#00eeff"
     }
   ],
-  "fileColors": [
-    {
-      "path": "sem5",
-      "color": "udA2-CvmLXgkNEtDnwpTz"
-    },
-    {
-      "path": "sem5/AI",
-      "color": "Q8dMK-WVjQrkD2xCXE4qp"
-    },
-    {
-      "path": "sem5/CAD",
-      "color": "7_QQg_DkcDeb3U0OKNe_z"
-    },
-    {
-      "path": "sem5/CD",
-      "color": "0RSJxgzXb5QYTG20lNPT-"
-    },
-    {
-      "path": "sem5/CN",
-      "color": "H61aEkfg8vU_pmB_k_PIp"
-    },
-    {
-      "path": "sem5/DBMS",
-      "color": "jKGdHvlV1BzTGJt-RbMzo"
-    },
-    {
-      "path": "sem5/OS",
-      "color": "jXviHe-0m9jtANiyy2Mg9"
-    }
-  ]
+  "fileColors": []
 }

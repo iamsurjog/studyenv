@@ -1,7 +1,0 @@
----
-id: CD
-aliases: 
-tags:
----
-
-
